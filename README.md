@@ -18,7 +18,9 @@ This project would subscribe the detection result and use kalman filter the trac
 
 
 
-[![Demo Video](https://drive.google.com/file/d/121_VBHeTh1A8GS49ih5nXeVw9z2b02Kd/view?usp=sharing)](https://drive.google.com/file/d/1-SRf17Lk1IWu7cImY4xdLh0LEr4j_ylM/view?usp=sharing)
+
+
+[![Demo Video](https://drive.google.com/uc?export=view&id=121_VBHeTh1A8GS49ih5nXeVw9z2b02Kd)](https://user-images.githubusercontent.com/17254260/110609305-0eff8080-81c8-11eb-8749-82fa3b8cb165.mp4)
 In the demo video, the right window is the YOLO detection result, and the left window is the tracking result. The track id represents as bounding box color.
 
 
@@ -81,7 +83,7 @@ Distributed under the BSD license. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/Abekabe/YOLOv3-tracking?style=for-the-badge
 [issues-url]: https://github.com/Abekabe/YOLOv3-tracking/issues
 [license-shield]: https://img.shields.io/github/license/Abekabe/YOLOv3-tracking?style=for-the-badge
-[license-url]: https://github.com/Abekabe/YOLOv3-tracking/blob/master/README.md
+[license-url]: https://github.com/Abekabe/YOLOv3-tracking/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chia-le-lee-ba0bbb180/
 [product-screenshot]: mages/screenshot.png
