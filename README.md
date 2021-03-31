@@ -15,8 +15,7 @@ This repo develops a image-based object tracker which based on YOLOv3 object det
 The ROS version YOLOv3 is implemented by [leggedrobotics/darknet_ros](https://github.com/leggedrobotics/darknet_ros) which given the camera image then publish the detection bounding box.
 This project would subscribe the detection result and use kalman filter the track those objects. The object which is tracked would have same track id.
 
-[![Demo Video](
-https://drive.google.com/file/d/1-SRf17Lk1IWu7cImY4xdLh0LEr4j_ylM/view?usp=sharing)](https://user-images.githubusercontent.com/17254260/110609305-0eff8080-81c8-11eb-8749-82fa3b8cb165.mp4)
+[![Demo Video](https://drive.google.com/file/d/121_VBHeTh1A8GS49ih5nXeVw9z2b02Kd/view?usp=sharing)](https://drive.google.com/file/d/1-SRf17Lk1IWu7cImY4xdLh0LEr4j_ylM/view?usp=sharing)
 In the demo video, the right window is the YOLO detection result, and the left window is the tracking result. The track id represents as bounding box color.
 
 
